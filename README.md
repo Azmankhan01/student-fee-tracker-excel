@@ -17,8 +17,7 @@ This project is a google sheets-based system to manage student data, and fee sta
 
 ---
 
-## 🖼️ Screenshot
-_Add a screenshot here if you can_  
+## 🖼️ Screenshot 
 `![image](https://github.com/user-attachments/assets/035df50f-83b5-424b-a627-dfa7964aa5e4)
 
 
